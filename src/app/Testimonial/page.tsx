@@ -14,7 +14,7 @@ const Testimonial = () => {
             <img
               src="https://media.istockphoto.com/id/1212710317/photo/young-handsome-man-with-beard-wearing-casual-t-shirt-standing-over-white-background-with-a.jpg?s=612x612&w=0&k=20&c=nSlJwjk7GNXyF0goEPp8B0Vo_tnk0OOkV1MlPJnTQ3A="
               alt="quote"
-              className="w-24 h-24 rounded-full mx-2" // Increased image size and centered
+              className="w-24 h-24 rounded-full mx-2"
             />
             <img
               src="https://media.istockphoto.com/id/1289220545/photo/beautiful-woman-smiling-with-crossed-arms.jpg?b=1&s=612x612&w=0&k=20&c=V0w97TpL-tuD3vdWC6AcD_nLE4BiAEN12mJdVZGw51g="
